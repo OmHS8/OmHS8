@@ -7,7 +7,7 @@
 ## 💼 Skill-set
 <ul>
   <li><b>Languages</b> :- Python, C++, Java, SQL, Dart</li>
-  <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn,Scikit-learn, Streamlit, Flutter</li>
+  <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn, Scikit-learn, Streamlit, Flutter</li>
   <li><b>Tools</b> :- Git, Postman, Firebase</li>
   <li><b>Interests</b> :- NLP, Computer Vision, App development</li>
   <li><b>Web development</b> :- HTML, CSS, Flask, FastApi</li>
@@ -15,8 +15,8 @@
 
 ## 📚 Education
 <ul>
-  <li>Artifical Intelligence and Data Science, D.Y. Patil College of Engineering,Akurdi 🎓</li>
-  <lo>Expected graduation :- 2025</lo>
+  <li>Artifical Intelligence and Data Science, D.Y. Patil College of Engineering, Akurdi 🎓</li>
+  <lo>Expected graduation year:- 2025</lo>
 </ul>
 
 ## Certifications
