@@ -1,5 +1,36 @@
-### Hi there 👋
+# 👋 Hi there  I'm Om!
+## 🚀 AI/ML Enthusiast
+Email :- <a href='oms9635@gmail.com'>oms9635@gmail.com</a>
+<br>
+LinkedIn :- <a href='https://www.linkedin.com/in/om-sonawane-120520250/'>Om</a>
+<br>
+Github :- <a href='https://github.com/OmHS8/OmHS8/'>OmHS8</a>
 
+##  About me
+<p>Embarked on a journey to understand and apply AI/ML concepts in various real-world scenarios.</p>
+
+## 💼 Skill-set
+<ul>
+  <li><b>Languages</b> :- Python, C++, Java, SQL, Dart</li>
+  <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn,Scikit-learn, Streamlit, Flutter</li>
+  <li><b>Tools</b> :- Git, Postman, Firebase</li>
+  <li><b>Interests</b> :- NLP, Computer Vision, App development</li>
+  <li><b>Web development</b> :- HTML, CSS, Flask, FastApi</li>
+</ul>
+
+## 📚 Education
+<ul>
+  <li>Aritifical Intelligence and Data Science, D.Y. Patil College of Engineering,Akurdi 🎓</li>
+  <lo>Expected graduation :- 2025</lo>
+</ul>
+
+## Certifications
+<ul>
+  <li><b>Kaggle</b> :- Pandas, Intro to Machine Learning, Intermediate Machine Learning</li>
+  <li><b>Sololearn</b> :- Introduction to Java, Introduction to Javascript</li>
+</ul>
+
+Feel free to reach out for collaboration, discussions, or just a friendly chat! 👩‍💻🚀
 <!--
 **OmHS8/OmHS8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
