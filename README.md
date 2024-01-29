@@ -22,7 +22,7 @@
 ## Certifications
 <ul>
   <li><b>Kaggle</b> :- Pandas, Intro to Machine Learning, Intermediate Machine Learning</li>
-  <li><b>Sololearn</b> :- Introduction to Java, Introduction to Javascript</li>
+  <li><b>Skillup</b> :- PowerBI for Beginners</li>
 </ul>
 
 ## Let-s Connect
