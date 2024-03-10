@@ -6,7 +6,7 @@
 
 ## 💼 Skill-set
 <ul>
-  <li><b>Languages</b> :- Python, C++, Java, SQL, Dart</li>
+  <li><b>Languages</b> :- Python, C++, Dart</li>
   <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn, Scikit-learn, Streamlit, Flutter</li>
   <li><b>Tools</b> :- Git, Postman, Firebase</li>
   <li><b>Interests</b> :- NLP, Computer Vision, App development</li>
@@ -21,7 +21,6 @@
 
 ## Certifications
 <ul>
-  <li><b>Kaggle</b> :- Pandas, Intro to Machine Learning, Intermediate Machine Learning</li>
   <li><b>Skillup</b> :- PowerBI for Beginners</li>
 </ul>
 
