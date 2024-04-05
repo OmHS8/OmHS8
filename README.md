@@ -10,18 +10,13 @@
   <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn, Scikit-learn, Streamlit, Flutter</li>
   <li><b>Tools</b> :- Git, Postman, Firebase</li>
   <li><b>Interests</b> :- NLP, Computer Vision, App development</li>
-  <li><b>Web development</b> :- HTML, CSS, Flask, FastApi</li>
+  <li><b>Web development</b> :- HTML, CSS, Flask, Django, FastApi</li>
 </ul>
 
 ## 📚 Education
 <ul>
   <li>Artifical Intelligence and Data Science, D.Y. Patil College of Engineering, Akurdi 🎓</li>
   <lo>Expected graduation year:- 2025</lo>
-</ul>
-
-## Certifications
-<ul>
-  <li><b>Skillup</b> :- PowerBI for Beginners</li>
 </ul>
 
 ## Let-s Connect
