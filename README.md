@@ -1,15 +1,15 @@
 # 👋 Hi there  I'm Om!
-## 🚀 AI/ML Enthusiast
+## 🚀 Tech Enthusiast
 
 ##  About me
-<p>Embarked on a journey to understand and apply AI/ML concepts in various real-world scenarios.</p>
+<p>Embarked on a journey to understand and apply technical concepts in various real-world scenarios.</p>
 
 ## 💼 Skill-set
 <ul>
   <li><b>Languages</b> :- Python, C++, Dart</li>
-  <li><b>Frameworks and Libraries</b> :- Tensorflow, Pandas, Seaborn, Scikit-learn, Streamlit, Flutter</li>
+  <li><b>Frameworks and Libraries</b> :- Tensorflow, Flutter, Pandas, Seaborn, Scikit-learn, Streamlit</li>
   <li><b>Tools</b> :- Git, Postman, Firebase</li>
-  <li><b>Interests</b> :- NLP, Computer Vision, App development</li>
+  <li><b>Interests</b> :- App development, Computer Vision</li>
   <li><b>Web development</b> :- HTML, CSS, Flask, Django, FastApi</li>
 </ul>
 
